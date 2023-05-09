@@ -31,6 +31,11 @@ const FilmeContainer = styled.div`
     font-size: 1.2rem;
     text-align: center;
   }
+  @media screen and (min-width: 768px){
+    img:hover{
+      cursor: pointer;
+    }
+  }
 `;
 
 interface Props {

@@ -38,6 +38,11 @@ const FilmeContainer = styled.div`
     cursor: pointer;
     color: gray;
   }
+  @media screen and (min-width: 768px){
+    img{
+      cursor: pointer;
+    }
+  }
   `;
 
 const Titulo = styled.h2`

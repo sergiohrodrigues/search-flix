@@ -42,10 +42,10 @@ export default function Menu(){
       label: 'Início',
       to: '/'
     },
-    {
-      label: 'Todos os Filmes',
-      to: '/todos-os-filmes'
-    },
+    // {
+    //   label: 'Todos os Filmes',
+    //   to: '/todos-os-filmes'
+    // },
     {
       label: 'Minha Lista',
       to: '/minha-lista'

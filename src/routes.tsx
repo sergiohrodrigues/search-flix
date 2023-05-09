@@ -19,7 +19,7 @@ function AppRoutes() {
         <Route path='/' element={<PaginaPadrao />}>
           <Route index element={<Inicio minhaLista={minhaLista} setMinhaLista={setMinhaLista} imagem={imagem} idDoFilme={idDoFIlme}/>}/>
           <Route path='filme/:id' element={<FilmeDescricao imagem={imagem}/>}/>
-          <Route path='todos-os-filmes' element={<TodosOsFilmes />}/>
+          {/* <Route path='todos-os-filmes' element={<TodosOsFilmes />}/> */}
           <Route path='minha-lista' element={<MinhaLista minhaLista={minhaLista} imagem={imagem} setMinhaLista={setMinhaLista}/>}/>
         </Route>
       </Routes>
