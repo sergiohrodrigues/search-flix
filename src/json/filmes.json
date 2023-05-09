@@ -1,0 +1,38 @@
+[
+    {
+    "imagem": "https://sm.ign.com/t/ign_br/image/h/how-to-wat/how-to-watch-doctor-strange-in-the-multiverse-of-madness-rel_6mfz.1024.jpg",
+    "titulo": "Doutor Estranho 2",
+    "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "categoria": "Aventura",
+    "video": "https://youtube.com/embed/X23XCFgdh2M",
+    "ano": 2022,
+    "id": 1
+    },
+    {
+    "imagem": "https://sm.ign.com/t/ign_br/image/h/how-to-wat/how-to-watch-doctor-strange-in-the-multiverse-of-madness-rel_6mfz.1024.jpg",
+    "titulo": "Crepusculo",
+    "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "categoria": "Aventura",
+    "video": "https://youtube.com/embed/X23XCFgdh2M",
+    "ano": 2022,
+    "id": 1
+    },
+    {
+    "imagem": "https://sm.ign.com/t/ign_br/image/h/how-to-wat/how-to-watch-doctor-strange-in-the-multiverse-of-madness-rel_6mfz.1024.jpg",
+    "titulo": "Vingadores",
+    "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "categoria": "Aventura",
+    "video": "https://youtube.com/embed/X23XCFgdh2M",
+    "ano": 2022,
+    "id": 1
+    },
+    {
+    "imagem": "https://sm.ign.com/t/ign_br/image/h/how-to-wat/how-to-watch-doctor-strange-in-the-multiverse-of-madness-rel_6mfz.1024.jpg",
+    "titulo": "Homem aranha",
+    "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "categoria": "Aventura",
+    "video": "https://youtube.com/embed/X23XCFgdh2M",
+    "ano": 2022,
+    "id": 1
+    }
+]
