@@ -9,4 +9,10 @@ Na tela de inicio voce consegue adicionar(+) e remover(-) qualquer um dos filmes
 
 
 ![Captura de Tela (116)](https://github.com/sergiohrodrigues/e-commerce/assets/86135798/63c65492-e49c-4069-9c16-10b530fdb0e2)
+
+
+essa  
+
+
+
 ![Captura de Tela (115)](https://github.com/sergiohrodrigues/e-commerce/assets/86135798/153bbc2b-a72f-47f9-a818-4de558f0b1fb)
